@@ -1,0 +1,9 @@
+../Core/Src/motor_control.c:14:9:hall_sensor	16	static
+../Core/Src/motor_control.c:45:6:m_uhvl	8	static
+../Core/Src/motor_control.c:59:6:m_uhwl	8	static
+../Core/Src/motor_control.c:73:6:m_vhul	8	static
+../Core/Src/motor_control.c:87:6:m_vhwl	8	static
+../Core/Src/motor_control.c:101:6:m_whul	8	static
+../Core/Src/motor_control.c:116:6:m_whvl	8	static
+../Core/Src/motor_control.c:131:6:stop_motor	8	static
+../Core/Src/motor_control.c:146:6:start_motor	8	static
